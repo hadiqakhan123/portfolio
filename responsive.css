@@ -1,0 +1,368 @@
+@media only screen and (max-width:1200px) {
+    .projects-card .card {
+        width: 27% !important;
+    }
+
+    .projects-section .card img {
+        height: 170px;
+        width: 180px;
+    }
+
+}
+
+@media only screen and (max-width:992px) {
+    .navbar li {
+        display: block !important;
+    }
+
+    .navbar-collapse {
+        display: block;
+        text-align: center;
+        margin: 0px !important;
+    }
+
+    .navbar-collapse li {
+        font-size: 25px !important;
+        padding-bottom: 15px;
+    }
+
+    .contact-btn {
+        width: 210px;
+        height: 70px;
+    }
+
+    .about-details {
+        margin: 10px 40px !important;
+        justify-content: flex-start;
+        width: 95%;
+    }
+
+    .about-details img {
+        width: 45%;
+    }
+
+    .about-info {
+        padding: 0px;
+        margin-right: 10px;
+    }
+
+    .about-info p {
+        padding: 10px 0px;
+        margin: 0px 30px;
+    }
+
+    .projects-card .card {
+        width: 21rem !important;
+    }
+
+    .projects-section .card img {
+        height: 220px;
+        width: 210px;
+    }
+
+    .footer-info {
+        margin: 0px 30px !important;
+    }
+}
+
+@media only screen and (max-width:768px) {
+    .section-heading {
+        font-size: 40px !important;
+    }
+
+    .logo {
+        margin-top: -10px;
+        margin-left: -20px;
+    }
+
+    .logo img {
+        height: 75px !important;
+    }
+
+    .logo span {
+        font-size: 24px;
+    }
+
+    .navbar-collapse li {
+        font-size: 20px !important;
+    }
+
+    .contact-btn {
+        width: 170px;
+        height: 50px;
+    }
+
+    .home-info p {
+        font-size: 18px;
+        margin: 0px 10px;
+    }
+
+    .home-info span {
+        font-size: 24px;
+    }
+
+    .about-details {
+        flex-direction: column;
+        margin: 10px 0px !important;
+        width: 100%;
+
+    }
+
+    .about-details img {
+        width: 65%;
+        height: 500px;
+        margin: 10px auto;
+    }
+
+    .about-info {
+        padding: 10px 0px;
+        margin: 0px;
+    }
+
+    .about-info p {
+        padding: 10px 0px;
+    }
+
+    .container {
+        height: 25px;
+    }
+
+    .skills {
+        height: 22px;
+        font-size: 17px;
+    }
+
+    .skills-bar p {
+        font-size: 17px;
+    }
+
+    .projects-card .card {
+        width: 22rem !important;
+    }
+
+    .projects-section .card img {
+        width: 50%;
+        ;
+        height: 200px;
+        margin: 10px auto !important;
+    }
+
+    .projects-section p {
+        font-size: 22px;
+    }
+
+    .projects-section h4 {
+        font-size: 27px;
+    }
+
+    .projects-section .card-btn {
+        width: 140px;
+        height: 50px;
+        font-size: 22px;
+    }
+    .resume img {
+        width: 70%;
+        height: 580px;
+     }
+    .contact-section span {
+        font-size: 22px;
+    }
+
+    .contact-info p {
+        font-size: 19px;
+    }
+
+    .contact-info>div>img {
+        height: 35px;
+    }
+
+    .contact-info .social-icons img {
+        height: 32px;
+    }
+
+    .footer-info {
+        flex-direction: column;
+    }
+
+    .personal-info {
+        width: 100%;
+    }
+
+    .footer-items {
+        justify-content: center;
+        margin-left: 0px;
+    }
+
+    .follow-section {
+        margin: 0px;
+        display: flex;
+    }
+    .social-icons {
+        margin-left: 20px;
+    }
+
+    .follow-section img {
+        height: 35px;
+    }
+}
+
+@media only screen and (max-width:576px) {
+    .section-heading {
+        font-size: 28px !important;
+    }
+
+    .navbar-collapse li {
+        font-size: 18px !important;
+    }
+
+    .navbar-toggler {
+        width: 40px !important;
+        height: 35px;
+        margin-right: 20px !important;
+    }
+
+    .navbar-toggler-icon {
+        text-align: center !important;
+        height: 25px;
+        margin-left: -7px;
+        margin-top: -2px;
+    }
+
+    .logo img {
+        height: 65px !important;
+    }
+
+    .logo span {
+        font-size: 21px;
+        font-style: italic;
+        position: relative;
+        top: 7px;
+        left: -15px;
+        color: navy;
+    }
+    .navbar-collapse  {
+        margin-left: -30px !important;
+    }
+    .home-info {
+        padding-top: 7%;
+    }
+
+    .home-info p {
+        font-size: 15px;
+
+    }
+
+    .home-info span {
+        font-size: 20px;
+    }
+
+    .about-details img {
+        height: 400px;
+    }
+
+    .about-info {
+        font-size: 18px;
+        margin-left: -13px;
+    }
+
+    .about-info li {
+        font-size: 16px;
+    }
+
+    .about-info span {
+        font-size: 18px;
+    }
+
+    .projects-section .card img {
+        width: 50%;
+        height: 170px;
+    }
+
+    .projects-section p {
+        font-size: 18px;
+    }
+
+    .projects-section h4 {
+        font-size: 24px;
+    }
+
+    .projects-section .card-btn {
+        width: 100px;
+        height: 45px;
+        font-size: 18px;
+    }
+    .resume img {
+       height:70vh;
+     }
+    .contact-section span {
+        font-size: 19px;
+    }
+
+    .contact-info p {
+        font-size: 17px;
+    }
+
+    .contact-info>div>img {
+        height: 32px;
+    }
+
+    .contact-info .social-icons img {
+        height: 29px;
+    }
+
+    .follow-section img {
+        height: 27px;
+    }
+
+    .personal-info h1 {
+        font-size: 26px;
+    }
+
+    .personal-info p {
+        font-size: 18px;
+    }
+
+    .footer-items li {
+        font-size: 19px;
+    }
+
+    .follow-section h3 {
+        font-size: 23px;
+    }
+}
+
+@media only screen and (max-width:450px) {
+    .about-details img {
+        width: 75%;
+    }
+
+    .projects-section .card {
+        width: 85% !important;
+    }
+
+    .projects-section .card img {
+        width: 45%;
+        height: 130px;
+    }
+
+    .projects-section p {
+        font-size: 16px;
+    }
+
+    .projects-section h4 {
+        font-size: 22px;
+    }
+
+    .projects-section .card-btn {
+        width: 80px;
+        height: 40px;
+        font-size: 16px;
+    }
+    .resume img {
+        height:60vh;
+      }
+      .resume-btn button {
+            height: 50px;
+            width: 160px;
+            font-size: 15px;    }
+}
